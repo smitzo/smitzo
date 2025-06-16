@@ -16,7 +16,7 @@
     <img align="center" src="./svgs/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://x.com/smitjoshi28" target="_blank" rel="noreferrer">
-    <img src="./svgs/x.svg" alt="X" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="40" height="40" />
   </a>
 
 </p>
