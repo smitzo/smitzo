@@ -15,6 +15,10 @@
   <a href="https://www.linkedin.com/in/smit-joshi-ab1062224/" target="blank">
     <img align="center" src="./svgs/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
+  <a href="https://x.com/smitjoshi28" target="_blank" rel="noreferrer">
+    <img src="./svgs/x.svg" alt="X" width="40" height="40" />
+  </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
