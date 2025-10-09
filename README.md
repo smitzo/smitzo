@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=smitzo&label=Profile%20views&color=0e75b6&style=flat" alt="smitzo" /> 
 </p>
 
-- :briefcase: Currently: **Software Developer @ Odoo**
+- :briefcase: Currently: **Software Developer @ Odoo.com**
 - :mailbox: Reach me at **joshismit2812@gmail.com**
 - :page_facing_up: My [Resume](https://drive.google.com/file/d/1lByodHaxo9OjH_G6PukEsE_q9NPLBkol/view?usp=drive_link)
 
