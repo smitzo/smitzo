@@ -1,12 +1,12 @@
 <h1 align="center">Hi :wave:, I'm Smit Joshi</h1>
-<h3 align="center">SDE Intern @ Odoo | Full Stack Developer from India</h3>
+<h3 align="center">SDE 1 @ Odoo | Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="./svgs/coding.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=smitzo&label=Profile%20views&color=0e75b6&style=flat" alt="smitzo" /> 
 </p>
 
-- :briefcase: Currently: **Software Developer @ [Odoo](https://www.odoo.com/)**
+- :briefcase: Currently: **Software Developer 1 @ [Odoo](https://www.odoo.com/)**
 - :mailbox: Reach me at **joshismit2812@gmail.com**
 - :page_facing_up: My [Resume](https://drive.google.com/file/d/1lByodHaxo9OjH_G6PukEsE_q9NPLBkol/view?usp=drive_link)
 
