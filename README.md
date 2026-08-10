@@ -8,7 +8,7 @@
 
 - :briefcase: Currently: **Software Developer 1 @ [Odoo](https://www.odoo.com/)**
 - :mailbox: Reach me at **joshismit2812@gmail.com**
-- :page_facing_up: My [Resume](https://drive.google.com/file/d/1lByodHaxo9OjH_G6PukEsE_q9NPLBkol/view?usp=drive_link)
+- :page_facing_up: My [Open-source contributions](https://github.com/smjo-odoo)
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
